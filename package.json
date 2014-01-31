@@ -1,0 +1,15 @@
+{
+  "name": "make-test",
+  "version": "0.0.1",
+  "description": "test target for running mocha tests",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/visionmedia/make-test.git"
+  },
+  "keywords": [
+    "make",
+    "mocha",
+    "test"
+  ],
+  "license": "mit"
+}
