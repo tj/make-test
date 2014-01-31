@@ -1,6 +1,6 @@
 {
   "name": "make-test",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "test target for running mocha tests",
   "repository": {
     "type": "git",
